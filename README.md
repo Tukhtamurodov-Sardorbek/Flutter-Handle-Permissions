@@ -1,4 +1,4 @@
-# Best way to handle permissions in your Flutter app
+# Best way to handle permissions in Flutter
 
 This project is a sample on how to manage sensitive permissions in a user-friendly way.
 
